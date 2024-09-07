@@ -1,0 +1,24 @@
+# Python related files
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+.env
+venv/
+env/
+
+# Django files
+db.sqlite3
+media/
+
+# System files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
