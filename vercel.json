@@ -21,7 +21,7 @@
       },
       {
         "src": "/(.*)",
-        "dest": "poll/wsgi.py"
+        "dest": "gstwala/wsgi.py"
       }
     ]
   }
